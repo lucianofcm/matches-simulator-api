@@ -1,0 +1,21 @@
+  [
+      {
+        "descricao": "Oitavas de final COPA do BRASIL 2022",
+        "local":{
+            "nome": "Maracanã",
+            "imagem": "todo"
+        },
+        {
+          "mandante":{
+            "nome": "Flamengo",
+            "forca": 5,
+            "imagem" "todo"
+          },
+          "visitante":{
+            "nome": "Atlético Mineiro",
+            "forca": 4.9,
+            "imagem" "todo"
+          }
+        }
+      }
+  ]
