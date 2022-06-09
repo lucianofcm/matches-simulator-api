@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Flamengo",
       "forca": 5,
-      "imagem": "todo"
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/Escudo-Flamengo-Png.png"
     },
     "visitante": {
       "nome": "Atlético Mineiro",
       "forca": 4.9,
-      "imagem": "todo"
+      "imagem": "https://logodetimes.com/wp-content/uploads/atletico-mineiro.png"
     }
   }
 ]
