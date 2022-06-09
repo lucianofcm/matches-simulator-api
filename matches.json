@@ -5,14 +5,14 @@
       "nome": "Maracanã",
       "imagem": "todo"
     },
-    "mandante": {
+    "homeTeam": {
       "nome": "Flamengo",
-      "forca": 5,
+      "stars": 5,
       "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/Escudo-Flamengo-Png.png"
     },
-    "visitante": {
+    "awayTeam": {
       "nome": "Atlético Mineiro",
-      "forca": 4.9,
+      "stars": 4.9,
       "imagem": "https://logodetimes.com/wp-content/uploads/atletico-mineiro.png"
     }
   }
