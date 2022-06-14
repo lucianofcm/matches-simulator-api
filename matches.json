@@ -1,4 +1,5 @@
 [
+  [
   {
     "descricao": "Oitavas de final COPA do BRASIL 2022",
     "local": {
@@ -15,5 +16,24 @@
       "stars": 4,
       "imagem": "https://logodetimes.com/wp-content/uploads/atletico-mineiro.png"
     }
+  },
+  {
+    "descricao": "Oitavas de final COPA do BRASIL 2022",
+    "local": {
+      "nome": "Aliens Park",
+      "imagem": "todo"
+    },
+    "homeTeam": {
+      "nome": "Palmeiras",
+      "stars": 5,
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/60.png"
+    },
+    "awayTeam": {
+      "nome": "São Paulo",
+      "stars": 4,
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/50.png"
+    }
   }
+]
+
 ]
