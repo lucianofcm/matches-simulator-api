@@ -32,5 +32,73 @@
       "forca": 4,
       "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
     }
+  },
+  {
+    "descricao": "Oitavas de final COPA do BRASIL 2022",
+    "local": {
+      "nome": "Aliens Park",
+      "imagem": "https://www.galeriadaarquitetura.com.br/Img/projeto/SF1/395/arena-palestra-italia4139.jpg"
+    },
+    "homeTeam": {
+      "nome": "Palmeiras",
+      "forca": 5,
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/60.png"
+    },
+    "awayTeam": {
+      "nome": "São Paulo",
+      "forca": 4,
+      "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
+    }
+  },
+  {
+    "descricao": "Oitavas de final COPA do BRASIL 2022",
+    "local": {
+      "nome": "Aliens Park",
+      "imagem": "https://www.galeriadaarquitetura.com.br/Img/projeto/SF1/395/arena-palestra-italia4139.jpg"
+    },
+    "homeTeam": {
+      "nome": "Palmeiras",
+      "forca": 5,
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/60.png"
+    },
+    "awayTeam": {
+      "nome": "São Paulo",
+      "forca": 4,
+      "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
+    }
+  },
+  {
+    "descricao": "Oitavas de final COPA do BRASIL 2022",
+    "local": {
+      "nome": "Aliens Park",
+      "imagem": "https://www.galeriadaarquitetura.com.br/Img/projeto/SF1/395/arena-palestra-italia4139.jpg"
+    },
+    "homeTeam": {
+      "nome": "Palmeiras",
+      "forca": 5,
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/60.png"
+    },
+    "awayTeam": {
+      "nome": "São Paulo",
+      "forca": 4,
+      "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
+    }
+  },
+  {
+    "descricao": "Oitavas de final COPA do BRASIL 2022",
+    "local": {
+      "nome": "Aliens Park",
+      "imagem": "https://www.galeriadaarquitetura.com.br/Img/projeto/SF1/395/arena-palestra-italia4139.jpg"
+    },
+    "homeTeam": {
+      "nome": "Palmeiras",
+      "forca": 5,
+      "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/60.png"
+    },
+    "awayTeam": {
+      "nome": "São Paulo",
+      "forca": 4,
+      "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
+    }
   }
 ]
